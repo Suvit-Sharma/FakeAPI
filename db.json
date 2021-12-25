@@ -3,17 +3,5 @@
   "userImage" : "https://images.pexels.com/photos/36029/aroni-arsa-children-little.jpg?cs=srgb&dl=pexels-pixabay-36029.jpg&fm=jpg",
   "teamLogo" : "https://images.pexels.com/photos/4480519/pexels-photo-4480519.jpeg?cs=srgb&dl=pexels-cottonbro-4480519.jpg&fm=jpg",
   "jerseyNumber" : "#30",
-  "playerId" : "G",
-  "heightFt" : "6",
-  "heightIn" : "8",
-  "weight" : "220",
-  "dob" : "20/12/2000",
-  "debut" : "20/12/2017",
-  "age" : "21",
-  "from" : "Bhopal",
-  "noOfGames" : "10",
-  "minutesPlayed" : "5234",
-  "avgMinutesPerGame" : "67",
-  "pointsPerGame" : "45",
-  "avgAssist" : "0.8"
+  "playerId" : "G"
 }
